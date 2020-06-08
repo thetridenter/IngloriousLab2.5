@@ -1,0 +1,11 @@
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/bin/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/bin/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom.deps.json
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/bin/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom.runtimeconfig.json
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/bin/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom.runtimeconfig.dev.json
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/bin/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom.dll
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/bin/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom.pdb
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/obj/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom.csprojAssemblyReference.cache
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/obj/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom.AssemblyInfoInputs.cache
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/obj/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom.AssemblyInfo.cs
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/obj/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom.dll
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab2/IngloriousLab2.5_nonrandom/IngloriousLab2.5_nonrandom/obj/Debug/netcoreapp3.1/IngloriousLab2.5_nonrandom.pdb
